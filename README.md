@@ -173,3 +173,4 @@ project-root/
         ├── components/   # QRDisplay, OtpForm, AttendanceTable, Navbar
         └── pages/        # Login, ProfessorDashboard, StudentAttendance, SessionHistory
 ```
+v1
